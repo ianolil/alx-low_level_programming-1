@@ -1,6 +1,7 @@
 #ifndef MAIN_H
 #define MAIN_H
 
+void _print_rev_recursion(char *s);
 int _putchar(char s);
 int is_prime_number(int n);
 int _sqrt_recursion(int n);
